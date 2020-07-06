@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLogic" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-18T20:17:06" hostname="CDLabor-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="TestWinTurn" classname="TestLogic" time="0.008"/>
+  <system-out><![CDATA[Current briscula Bastoni
+[]
+Bastoni_AS
+Current briscula Bastoni
+[]
+Bastoni_AS
+Current briscula Bastoni
+[]
+Bastoni_AS
+Current briscula Dinari
+[]
+Dinari_2
+Current briscula Coppe
+[]
+Coppe_6
+Current briscula Bastoni
+[]
+Bastoni_2
+Current briscula Spade
+[]
+Spade_3
+Current briscula Dinari
+[]
+Dinari_FA
+Current briscula Bastoni
+[]
+Bastoni_AS
+Current briscula Bastoni
+[]
+Bastoni_AS
+Current briscula Bastoni
+[]
+Bastoni_3
+Current briscula Dinari
+[]
+Dinari_AS
+Current briscula Coppe
+[]
+Coppe_AS
+Current briscula Coppe
+[]
+Coppe_AS
+Current briscula Dinari
+[]
+Dinari_7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
