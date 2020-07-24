@@ -11,9 +11,9 @@ public class Main {
         GameSession game = new GameSession();
         int firstWon = 0, secondWon = 0, draw = 0;
         List<Integer> firstRes = new ArrayList<>(), secondRes = new ArrayList<>();
-        int numGames = 100000;
+        int numGames = 1000000;
         for (int i = 0; i < numGames; i++) {
-            game.startGame(new RandomPlayer(), new EdiPlayer());
+            game.startGame(new RandomPlayer(), new RandomPlayer());
             firstRes.add(game.player1.getCurrentPoints());
             secondRes.add(game.player2.getCurrentPoints());
         }
